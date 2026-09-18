@@ -33,6 +33,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=mui" height="60" alt="Material ui logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=php" height="60" alt="Php logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
