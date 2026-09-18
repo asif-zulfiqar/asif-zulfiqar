@@ -33,6 +33,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=node" height="60" alt="Node JS logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express JS logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongodB logo"  />
+  <img width="12" />
+
+  
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=mui" height="60" alt="Material ui logo"  />
@@ -53,7 +64,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
-
+<!--
   <div>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="50" alt="mongodb logo"  />
     <img width="12" />
@@ -62,7 +73,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="50" alt="nodejs logo"  />
-  </div>
+  </div> -->
 </div>
 
 ###
