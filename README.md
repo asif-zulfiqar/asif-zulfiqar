@@ -1,5 +1,5 @@
 <br clear="both">
-<h2 align="left">Hello, I'm Asif Zulfiqar, Software Engineer.</h2>
+<h2 align="left">Hello, I'm Asif Zulfiqar, Full Stack Developer</h2>
 
 <!-- <img align="right" src="https://profile-counter.glitch.me/asifzulfiqar43/count.svg?"  /> -->
 <!-- <p align="left">💼 currently I am working as a Software Engineer with Voho.</p> -->
